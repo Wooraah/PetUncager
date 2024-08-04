@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="PETUNCAGER_UNCAGE_BUTTON" header="PETUNCAGER" category="ADDONS">
+    UncagePetsAction();
+  </Binding>
+</Bindings>
