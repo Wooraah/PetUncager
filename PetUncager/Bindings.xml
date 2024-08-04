@@ -1,5 +1,3 @@
 <Bindings>
-  <Binding name="PETUNCAGER_UNCAGE_BUTTON" header="PETUNCAGER" category="ADDONS">
-    UncagePetsAction();
-  </Binding>
+    <Binding name="CLICK UncageButton:LeftButton" header="PETUNCAGER" category="ADDONS"/>
 </Bindings>

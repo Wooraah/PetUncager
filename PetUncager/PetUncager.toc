@@ -3,7 +3,6 @@
 ## Notes: Uncage your pets quickly!
 ## Author: Wooraah
 ## Version: 1.0
-## SavedVariables: PetUncagerDB
 
 Bindings.xml
 PetUncager.lua
