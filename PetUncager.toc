@@ -1,0 +1,7 @@
+## Interface: 110000
+## Title: Pet Uncager
+## Notes: Automatically uncages battle pets from your bags
+## Author: Wooraah
+## Version: 1.0
+
+PetUncager.lua
